@@ -59,3 +59,6 @@ Dalam proyek open source, sangat penting untuk melakukan review kode sebelum dig
 Konflik merge terjadi ketika dua orang mengubah bagian kode yang sama di branch yang berbeda. Untuk menyelesaikan konflik:
 - **Resolusi konflik**: Gabungkan secara manual kode yang mengalami konflik dan pastikan tidak ada fitur yang terhapus.
 - **Commit hasil resolusi**: Setelah konflik terselesaikan, lakukan commit dan lanjutkan proses merging.
+
+## Kesimpulan
+Kolaborasi di GitHub sangat penting untuk keberhasilan proyek open source dan tim yang terdistribusi. Menggunakan Markdown untuk dokumentasi memudahkan komunikasi antar anggota tim. Dengan workflow yang baik, seperti branching dan pull request, kolaborasi dapat berjalan lancar.
