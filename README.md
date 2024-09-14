@@ -61,4 +61,4 @@ Konflik merge terjadi ketika dua orang mengubah bagian kode yang sama di branch 
 - **Commit hasil resolusi**: Setelah konflik terselesaikan, lakukan commit dan lanjutkan proses merging.
 
 ## Kesimpulan
-Kolaborasi di GitHub sangat penting untuk keberhasilan proyek open source dan tim yang terdistribusi. Menggunakan Markdown untuk dokumentasi memudahkan komunikasi antar anggota tim. Dengan workflow yang baik, seperti branching dan pull request, kolaborasi dapat berjalan lancar.
+Kolaborasi di GitHub sangat penting untuk keberhasilan proyek open source dan tim yang terdistribusi. Menggunakan Markdown untuk dokumentasi memudahkan komunikasi antar anggota tim. Dengan workflow yang baik, seperti branching dan pull request, kolaborasi dapat berjalan lancar. Dan dengan itu dapat mempermudah dalam mengerjakan sebuah projek.
