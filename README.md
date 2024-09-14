@@ -42,3 +42,20 @@ File `README.md` sering menjadi file pertama yang dilihat oleh pengguna ketika m
 - **Deskripsi proyek**: Sertakan deskripsi singkat yang menjelaskan tujuan proyek.
 - **Instruksi instalasi**: Berikan panduan cara menginstal dan menjalankan proyek.
 - **Cara berkontribusi**: Jelaskan bagaimana orang lain bisa ikut berkontribusi dalam proyek Anda.
+
+## Bagian 3: Workflow Kolaborasi di GitHub
+
+### 1. Branching dan Merging
+Branching memungkinkan Anda bekerja pada fitur atau perbaikan bug tanpa mengganggu kode di branch utama (biasanya `main` atau `master`). Setelah pekerjaan selesai, branch tersebut bisa di-merge ke branch utama.
+- **Branch baru**: Buat branch baru untuk setiap fitur atau perubahan besar.
+- **Merge branch**: Setelah pekerjaan di branch selesai, gunakan pull request untuk menggabungkan perubahan ke branch utama.
+
+### 2. Review Kode
+Dalam proyek open source, sangat penting untuk melakukan review kode sebelum digabungkan. GitHub menyediakan fitur untuk mempermudah proses ini:
+- **Commenting**: Setiap baris kode di pull request dapat dikomentari oleh reviewer.
+- **Approve atau Request changes**: Reviewer dapat menyetujui pull request atau meminta perubahan lebih lanjut.
+
+### 3. Konflik Merge
+Konflik merge terjadi ketika dua orang mengubah bagian kode yang sama di branch yang berbeda. Untuk menyelesaikan konflik:
+- **Resolusi konflik**: Gabungkan secara manual kode yang mengalami konflik dan pastikan tidak ada fitur yang terhapus.
+- **Commit hasil resolusi**: Setelah konflik terselesaikan, lakukan commit dan lanjutkan proses merging.
